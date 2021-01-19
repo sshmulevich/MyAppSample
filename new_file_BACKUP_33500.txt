@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+qBye
+=======
+hii
+>>>>>>> MyNewBranch
+my name is
+Sophie
