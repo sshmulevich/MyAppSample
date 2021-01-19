@@ -2,3 +2,16 @@ logs/
 main.logs
 *.log
 bin/
+.new_file.txt.swp
+.new_file_BASE_33500.txt.swp
+.new_file_LOCAL_33500.txt.swp
+.new_file_REMOTE_33500.txt.swp
+new_file_BACKUP_33500.txt
+new_file_BASE_33500.txt
+new_file_LOCAL_33500.txt
+new_file_REMOTE_33500.txt
+new_file.txt.orig
+new_file_BACKUP_25396.txt
+new_file_BASE_25396.txt
+new_file_LOCAL_25396.txt
+new_file_REMOTE_25396.txt
