@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-qBye
-=======
-hii
->>>>>>> MyNewBranch
-my name is
+Hi
+My
+Name
+Is
 Sophie
-LO
